@@ -1,4 +1,4 @@
-# CadastrarCpf
+# Exc1_CadastrarCpf
 Testes Cadastrar CPF
 Exc1_CadastrarCpf
 1. Crie um programa que peça o nome, CPF e idade para um usuário.
